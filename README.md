@@ -18,15 +18,6 @@ Aqui estão algumas informações sobre mim:
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent" />
-</a>
-<a href="https://github.com/Adryellsales/Mario-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=transparent" />
-</a>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Adry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Adry-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
