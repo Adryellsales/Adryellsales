@@ -1,5 +1,9 @@
 ### Olá 👋 Eu sou o Adryell Sales
 
+##
+Iniciei minha jornada como desenvolvedor aos 20 anos e desde então sou um entusiasta apaixonado pela área de desenvolvimento, estou no último semestre de analise e desenvolvimento de sistemas, tenho experiencia em desenvolvimento a 2 anos, e estou em constante aprendizado.
+##
+
 Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou procurando vaga na area de desenvolvimento
