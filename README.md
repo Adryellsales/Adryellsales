@@ -21,7 +21,7 @@ Aqui estão algumas informações sobre mim:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Adryellsales/Mario-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=transparent" />
 </a>
 
