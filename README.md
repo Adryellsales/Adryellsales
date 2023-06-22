@@ -14,7 +14,7 @@ Aqui estão algumas informações sobre mim:
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryellsales&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryellsales&layout=donut&theme=transparent&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryellsales&layout=donut&theme=transparent&locale=pt-br&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
