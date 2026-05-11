@@ -1,37 +1,33 @@
-# Olá, eu sou o Adryell Sales 👋
+# Olá 👋 Eu sou o Adryell Sales
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adryellsales&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&include_all_commits=true" height="170em" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryellsales&layout=donut&theme=transparent&locale=pt-br&langs_count=7" height="170em" alt="Top Languages" />
 </div>
 
----
+## Sobre Mim
 
-### 🚀 Sobre Mim
+Iniciei minha jornada como desenvolvedor aos 20 anos e desde então sou um entusiasta apaixonado pela área de desenvolvimento, estou no último semestre de analise e desenvolvimento de sistemas, tenho experiencia em desenvolvimento a 2 anos, e estou em constante aprendizado.
 
-Iniciei minha jornada no desenvolvimento aos 20 anos e, desde então, me tornei um entusiasta apaixonado por tecnologia. Atualmente, estou no **último semestre de Análise e Desenvolvimento de Sistemas**, acumulando **2 anos de experiência prática** e um aprendizado que nunca para.
+- 🔭 Atualmente estou procurando vaga na area de desenvolvimento
+- 🌱 Eu estou em constante evolução nos estudos
+- 📫 Entre em contato em: adryellsales@hotmail.com
+- ⚡ Sou um dos únicos programadores que não toma café 🥤
 
-- 🔭 **Foco atual:** Buscando oportunidades como Desenvolvedor (Front-end / Fullstack).
-- 🌱 **Evolução:** Aprofundando conhecimentos em arquitetura e novas stacks.
-- ⚡ **Curiosidade:** Faço parte da rara linhagem de programadores que **não toma café**. 🥤
-- 📫 **Contato:** [adryellsales@hotmail.com](mailto:adryellsales@hotmail.com)
+## Minhas Ferramentas & Tecnologias
 
----
+Aqui estão as tecnologias que utilizo no meu dia a dia, agora com um visual estilizado:
 
-### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="JS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="React" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Bootstrap" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
----
-
-### 🤝 Conecte-se comigo
+## Vamos nos Conectar
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adryell-sales-34597a159/" target="_blank">
@@ -46,14 +42,11 @@ Iniciei minha jornada no desenvolvimento aos 20 anos e, desde então, me tornei 
   <a href="https://instagram.com/adryellsales" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+   <a href="https://www.facebook.com/adryell.sales/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </div>
 
----
-
-### 🐍 My Contributions
+## Contribuições
 
 ![snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-_“O aprendizado é contínuo e a curiosidade é o que me move.”_
