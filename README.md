@@ -9,7 +9,7 @@
 
 ### 📖 Sobre Mim
 
-Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnologia e criação. Atualmente, estou no **último semestre de Análise e Desenvolvimento de Sistemas**, acumulando **2 anos de experiência** prática. Além da programação, atuo como designer e editor, unindo lógica e estética em meus projetos.
+Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnologia e criação. Atualmente, estou no **último semestre de Análise e Desenvolvimento de Sistemas**, acumulando **6 anos de experiência** prática. Além da programação, atuo como designer e editor, unindo lógica e estética em meus projetos.
 
 * 🔭 **Objetivo:** Buscando oportunidades no setor de tecnologia e desenvolvimento.
 * 🌱 **Evolução:** Focado em dominar novas stacks e engines de jogos.
@@ -33,6 +33,15 @@ Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnol
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+#### 🎮 Game Dev & 3D Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Construct_3-F05A28?style=for-the-badge&logo=construct3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
 #### 🎨 Design & Edição de Vídeo
 <p align="left">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
@@ -44,34 +53,7 @@ Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnol
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 </p>
 
-#### 🎮 Game Dev & 3D Modeling
+#### 🔧 Ferramentas & Versão
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
-
-#### 🔧 Ferramentas de Versão
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 🤝 Vamos nos Conectar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adryell-sales-34597a159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/5511946307087" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:adryellsales@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://instagram.com/adryellsales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
----
-
-### 🐍 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake?github=adryellsales&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%233d7eff&color_snake=%234b91ff" alt="snake" />
-</div>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https
