@@ -1,8 +1,8 @@
 # Olá 👋 Eu sou o Adryell Sales
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adryellsales&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&include_all_commits=true" height="170em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryellsales&layout=donut&theme=transparent&locale=pt-br&langs_count=7" height="170em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adryellsales&show_icons=true&theme=radical&locale=pt-br&rank_icon=github&include_all_commits=true" height="170em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryellsales&layout=donut&theme=radical&locale=pt-br&langs_count=7" height="170em" alt="Top Languages" />
 </div>
 
 ## Sobre Mim
