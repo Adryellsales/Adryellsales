@@ -9,7 +9,7 @@
 
 ### 📖 Sobre Mim
 
-Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnologia e criação. Atualmente, estou no **último semestre de Análise e Desenvolvimento de Sistemas**, acumulando **6 anos de experiência** prática. Além da programação, atuo como designer e editor, unindo lógica e estética em meus projetos.
+Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnologia e criação. Atualmente, estou no **último semestre de Análise e Desenvolvimento de Sistemas**, acumulando **2 anos de experiência** prática. Além da programação, atuo como designer e editor, unindo lógica e estética em meus projetos.
 
 * 🔭 **Objetivo:** Buscando oportunidades no setor de tecnologia e desenvolvimento.
 * 🌱 **Evolução:** Focado em dominar novas stacks e engines de jogos.
@@ -56,4 +56,25 @@ Iniciei minha jornada como desenvolvedor aos 20 anos e sou apaixonado por tecnol
 #### 🔧 Ferramentas & Versão
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Vamos nos Conectar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adryell-sales-34597a159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/5511946307087" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:adryellsales@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://instagram.com/adryellsales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
